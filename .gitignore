@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+
+# Jupyter notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# config file
+config.dotenv
+
+*.DS_store
+
+# images
+*.png
+*.svg
+*.pdf
+*.afdesign
+
+# csv files
+*.csv
+
+# pickle files
+*.pickle
