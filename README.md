@@ -65,7 +65,7 @@ This will open it as a notebook and create a `.ipynb` file the `.py` is synced w
 
 ## Project structure
 
-Project structure is inspired by [Alex Williams's "Cookiecutter For Neural Data Analysis"](https://github.com/ahwillia/cookiecutter-neural-data):
+Project structure is inspired by [Alex Williams's "Cookiecutter For Neural Data Analysis"](https://github.com/ahwillia/cookiecutter-data-science):
 
     ├── data               <- Folder containing all data.
     │   │
